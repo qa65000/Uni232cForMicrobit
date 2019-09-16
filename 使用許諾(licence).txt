@@ -1,0 +1,6 @@
+このuni232cformicrobitはuni232cの機能delphi 10.3を用いてmicrobit用に動作させる為のコンポーネントです。
+作者および有）CSDは、使用者、その他の第三者が本件ソフトウェアに関連して直接、間接に蒙ったいかなる損害に対しても、賠償等の一切の責任を負いません。
+windowsの場合win32/release内のUni232c.Microbit.dcuをコンポーネントとしてインストールしてください。
+androidの場合は検索パスに、Android/debug もしくはAnrdoid/Releaseを設定してください。
+
+
